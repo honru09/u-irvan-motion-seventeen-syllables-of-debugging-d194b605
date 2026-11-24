@@ -1,4 +1,5 @@
 """Seventeen Syllables of Debugging — make.fun entry.
+SPDX-License-Identifier: MIT
 
 Writes one haiku about debugging (5-7-5) to /output/entry.txt.
 Python stdlib only. No network, no external files read at run time.
